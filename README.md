@@ -9,7 +9,7 @@ All input strings will be nonempty, and will only consist of parentheses, bracke
 A string of braces is considered valid if all braces are matched with the correct brace.
 
 ## Examples
-```
+```Java
 "(){}[]"   =>  True 
 "([{}])"   =>  True
 "(}"       =>  False
